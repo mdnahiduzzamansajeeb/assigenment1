@@ -1,0 +1,64 @@
+*{
+    margin: 2px;
+    padding: 0;
+}
+a {
+    color: ##C70039;
+    text-decoration: none;
+}
+
+a:hover
+{
+    color: #FFE404;
+    text-decoration:none;
+    cursor:pointer;
+}
+.sajeeb{
+    margin-top: 20px;
+}
+
+.container{
+    margin: 0 30px;
+}
+
+.topHeading{
+    text-align: center;
+}
+.topHead{
+    font-size: 60px;
+}
+.bannerImage{
+    width: 100%;
+    height: 400px;
+}
+.banner{
+    text-align: center;
+}
+.personalInfo{
+    text-align: center;
+}
+.infoHead{
+    text-align: center;
+    background: #f2fff8;
+    font-size: 50px;
+}
+.infoName{
+    color: #a52a2a;
+    font-size: 30px;
+}
+.infoDetails,.infoDetails1{
+    font-size: 20px;
+}
+.hobbyHead{
+    text-align: center;
+    background: #f2fff8;
+    font-size: 50px;
+}
+.hobbyName{
+    font-size: 20px;
+    font-weight: bold;
+    font-size: 30px;
+}
+.hobbyElem{
+    margin-left: 20px;
+}
